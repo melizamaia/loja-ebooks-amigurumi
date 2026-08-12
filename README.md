@@ -1,19 +1,15 @@
-# hackaton-deco-amigurumi-lovelace
+# Loja de E-books Amigurumi
 
 **Projeto Beatriz** — entrega automática de e-books de amigurumi vendidos na
 Nuvemshop: a cada venda, o comprador recebe por e-mail um PDF com marca
 d'água (nome + CPF), sem intervenção manual e com custo zero de
 infraestrutura.
 
-Projeto do hackathon **[Agents for Commerce](https://hackathon.decocms.com/agents-for-commerce)** (Deco).
-
-O Agents for Commerce é o hackathon da Deco para tirar do papel, em poucos
-dias, soluções agênticas que resolvam problemas reais de uma operação de
-e-commerce de alto volume. Quem opera uma loja sabe que ela perde dinheiro
-em dezenas de pequenos pontos todo dia, em tarefas repetidas que ninguém
-tem tempo de fazer direito: search, catalog, performance, tráfego, etc.
-Achar e corrigir isso na mão é trabalho de tempo integral. É justamente o
-tipo de coisa que um agente faz melhor.
+Quem opera uma loja sabe que ela perde dinheiro em dezenas de pequenos
+pontos todo dia, em tarefas repetidas que ninguém tem tempo de fazer
+direito. A entrega de e-books após a compra é uma delas: achar e corrigir
+isso na mão é trabalho de tempo integral, e é justamente o tipo de coisa
+que este projeto automatiza de ponta a ponta.
 
 ## Como funciona
 
@@ -134,7 +130,7 @@ limites do Workers Free plan — sem necessidade de upgrade pago. Detalhes em
 
 ## Time de desenvolvimento
 
-Projeto desenvolvido durante o **Hackathon Agents for Commerce **, com foco na resolução de problemas reais de uma operação de e-commerce de alto volume utilizando agentes de IA.
+Projeto desenvolvido com foco na resolução de problemas reais de uma operação de e-commerce de alto volume utilizando agentes de IA.
 
 | Nome | GitHub |
 |------|--------|
@@ -149,5 +145,5 @@ Projeto desenvolvido durante o **Hackathon Agents for Commerce **, com foco na r
 [MIT](LICENSE)
 
 
-*Desenvolvido com TypeScript · Hackathon Agents for Commerce (Deco) 2026*
+*Desenvolvido com TypeScript · Loja de E-books Amigurumi · 2026*
 
